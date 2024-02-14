@@ -3,6 +3,7 @@
 > [!NOTE]
 > Forked from [ppeccin/WebMSX](https://github.com/ppeccin/WebMSX)
 
+<img src="docs/assets/play.png" />
 
 ## Configuration
 
